@@ -1,0 +1,36 @@
+Results for p=0:
+Average Precision at 5: 0.8400
+Average Precision at 3: 0.8000
+Average Precision at 1: 0.6600
+Average Time taken: 17.6486 ms
+
+Results for p=0.1:
+Average Precision at 5: 0.8400
+Average Precision at 3: 0.8200
+Average Precision at 1: 0.6600
+Average Time taken: 16.9440 ms
+
+Results for p=0.3:
+Average Precision at 5: 0.8200
+Average Precision at 3: 0.8000
+Average Precision at 1: 0.6800
+Average Time taken: 15.2853 ms
+
+Results for p=0.5:
+Average Precision at 5: 0.7400
+Average Precision at 3: 0.7000
+Average Precision at 1: 0.5600
+Average Time taken: 13.2805 ms
+
+Results for p=0.7:
+Average Precision at 5: 0.6000
+Average Precision at 3: 0.5600
+Average Precision at 1: 0.4400
+Average Time taken: 10.6664 ms
+
+Results for p=0.9:
+Average Precision at 5: 0.3600
+Average Precision at 3: 0.3000
+Average Precision at 1: 0.1600
+Average Time taken: 6.9814 ms
+
