@@ -1,0 +1,51 @@
+[
+    {
+        "p_value": 0.1,
+        "average_precision_at_5": 0.8400000000000001,
+        "average_precision_at_3": 0.8,
+        "average_precision_at_1": 0.58,
+        "average_time_ms": 8.783632278442383
+    },
+    {
+        "p_value": 0.15,
+        "average_precision_at_5": 0.82,
+        "average_precision_at_3": 0.76,
+        "average_precision_at_1": 0.6,
+        "average_time_ms": 8.724040031433105
+    },
+    {
+        "p_value": 0.2,
+        "average_precision_at_5": 0.78,
+        "average_precision_at_3": 0.76,
+        "average_precision_at_1": 0.64,
+        "average_time_ms": 8.723958969116211
+    },
+    {
+        "p_value": 0.25,
+        "average_precision_at_5": 0.82,
+        "average_precision_at_3": 0.78,
+        "average_precision_at_1": 0.64,
+        "average_time_ms": 8.771713256835938
+    },
+    {
+        "p_value": 0.3,
+        "average_precision_at_5": 0.78,
+        "average_precision_at_3": 0.7,
+        "average_precision_at_1": 0.58,
+        "average_time_ms": 8.723881721496582
+    },
+    {
+        "p_value": 0.4,
+        "average_precision_at_5": 0.86,
+        "average_precision_at_3": 0.72,
+        "average_precision_at_1": 0.52,
+        "average_time_ms": 8.487839698791504
+    },
+    {
+        "p_value": 0.5,
+        "average_precision_at_5": 0.8400000000000001,
+        "average_precision_at_3": 0.7,
+        "average_precision_at_1": 0.4600000000000001,
+        "average_time_ms": 8.459575653076174
+    }
+]
