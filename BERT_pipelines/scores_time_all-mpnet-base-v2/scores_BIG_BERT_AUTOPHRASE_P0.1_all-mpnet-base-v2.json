@@ -1,6 +1,6 @@
 [
   {
-    "p": 30,
+    "Q": 30,
     "precision@1": 0.72,
     "precision@3": 0.84,
     "precision@5": 0.9,
@@ -42,14 +42,14 @@
     "avg_execution_time": 0.007077865600585938
   },
   {
-    "p": 70,
+    "Q": 70,
     "precision@1": 0.72,
     "precision@3": 0.82,
     "precision@5": 0.88,
     "avg_execution_time": 0.004140405654907226
   },
   {
-    "p": 90,
+    "Q": 90,
     "precision@1": 0.68,
     "precision@3": 0.84,
     "precision@5": 0.88,
