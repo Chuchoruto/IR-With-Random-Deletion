@@ -1,0 +1,44 @@
+[
+    {
+        "p_value": 0,
+        "average_precision_at_5": 0.8400000000000007,
+        "average_precision_at_3": 0.7999999999999997,
+        "average_precision_at_1": 0.66,
+        "average_time_ms": 8.769034671783444
+    },
+    {
+        "p_value": 0.1,
+        "average_precision_at_5": 0.8400000000000007,
+        "average_precision_at_3": 0.8200000000000002,
+        "average_precision_at_1": 0.66,
+        "average_time_ms": 8.429904747009278
+    },
+    {
+        "p_value": 0.3,
+        "average_precision_at_5": 0.8200000000000002,
+        "average_precision_at_3": 0.7999999999999997,
+        "average_precision_at_1": 0.6799999999999998,
+        "average_time_ms": 7.487492084503175
+    },
+    {
+        "p_value": 0.5,
+        "average_precision_at_5": 0.7399999999999995,
+        "average_precision_at_3": 0.6999999999999998,
+        "average_precision_at_1": 0.5599999999999996,
+        "average_time_ms": 6.408177375793455
+    },
+    {
+        "p_value": 0.7,
+        "average_precision_at_5": 0.6000000000000005,
+        "average_precision_at_3": 0.5599999999999996,
+        "average_precision_at_1": 0.4400000000000002,
+        "average_time_ms": 5.0559686660766605
+    },
+    {
+        "p_value": 0.9,
+        "average_precision_at_5": 0.35999999999999976,
+        "average_precision_at_3": 0.30000000000000027,
+        "average_precision_at_1": 0.16000000000000006,
+        "average_time_ms": 2.971346473693848
+    }
+]
