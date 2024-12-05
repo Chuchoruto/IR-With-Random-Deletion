@@ -1,0 +1,58 @@
+[
+  {
+    "p": 30,
+    "precision@1": 0.72,
+    "precision@3": 0.84,
+    "precision@5": 0.9,
+    "avg_execution_time": 0.004431514739990234
+  },
+  {
+    "Q": 40,
+    "precision@1": 0.72,
+    "precision@3": 0.82,
+    "precision@5": 0.88,
+    "avg_execution_time": 0.0061698007583618165
+  },
+  {
+    "Q": 45,
+    "precision@1": 0.7,
+    "precision@3": 0.86,
+    "precision@5": 0.88,
+    "avg_execution_time": 0.006898946762084961
+  },
+  {
+    "Q": 47,
+    "precision@1": 0.68,
+    "precision@3": 0.84,
+    "precision@5": 0.88,
+    "avg_execution_time": 0.007218766212463379
+  },
+  {
+    "Q": 50,
+    "precision@1": 0.7,
+    "precision@3": 0.82,
+    "precision@5": 0.86,
+    "avg_execution_time": 0.007000069618225097
+  },
+  {
+    "Q": 55,
+    "precision@1": 0.66,
+    "precision@3": 0.84,
+    "precision@5": 0.86,
+    "avg_execution_time": 0.007077865600585938
+  },
+  {
+    "p": 70,
+    "precision@1": 0.72,
+    "precision@3": 0.82,
+    "precision@5": 0.88,
+    "avg_execution_time": 0.004140405654907226
+  },
+  {
+    "p": 90,
+    "precision@1": 0.68,
+    "precision@3": 0.84,
+    "precision@5": 0.88,
+    "avg_execution_time": 0.0041989898681640625
+  }
+]
